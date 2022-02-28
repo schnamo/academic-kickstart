@@ -22,6 +22,21 @@ bio = ""
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "P.hD. in Computational Biology"
+  institution = "University of Cambridge"
+  #year = 2020
+  
+[[education.courses]]
+  course = "M.Sc. in Mathematics"
+  institution = "Free University Berlin"
+  year = 2014
+
+[[education.courses]]
+  course = "B.Sc. in Mathematics"
+  institution = "Free University Berlin"
+  year = 2012
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -36,7 +51,15 @@ email = ""
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:ch.tumescheit@gmail.com"
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/schnamori"
   
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/schnamo"
 
-+++
-
++++ 
